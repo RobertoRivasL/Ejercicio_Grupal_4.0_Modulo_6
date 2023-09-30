@@ -67,3 +67,34 @@ el segundo recibirá
 | Recursos Bibliográficos:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | <p></p><p>**Spring MVC: Configuración**</p><p><https://www.javatutoriales.com/2015/12/spring-mvc-parte-1-configuracion.html></p><p></p><p>**Introducción a MVC en Spring**</p><p><http://www.jtech.ua.es/j2ee/publico/spring-2012-13/sesion03-apuntes.html></p><p></p><p>**Crear un proyecto MVC con Spring Tool Suite (STS)**</p><p><https://www.youtube.com/watch?v=eMG9qi061D8></p><p></p><p>**Spring MVC - Cómo incluir archivos CSS o JS en una página JSP**</p><p><https://mkyong.com/spring-mvc/spring-mvc-how-to-include-js-or-css-files-in-a-jsp-page/></p>                                                                                                                                                                                                                                                                                                                                |
 
+
+
+![Static Badge](https://img.shields.io/badge/Ejercicio%20Grupal%204.0%20-%20Modulo%206%20-%20blue?labelColor=abcdef&cacheSeconds=3200)
+
+
+
+## **Integrantes :**
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Angelica%20-%20Romero%20-%20violet?cacheSeconds=3200" alt="Texto alternativo 1"></td>
+    <td><img src="https://img.shields.io/badge/Bastian%20-%20Mariangel%20-%20red?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Ivan%20-%20Mieres%20-%20green?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Patricio%20-%20Bonnin%20-%20brown?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Roberto%20-%20Rivas%20-%20blue?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+  </tr>
+</table>
+
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_4.0_Modulo_6/assets/131497718/3933b559-e6da-4f7a-a885-81dcf2245284)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_4.0_Modulo_6/assets/131497718/1ce52521-8812-4ae0-816f-fc369b590191)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_4.0_Modulo_6/assets/131497718/c41f93ed-54a6-4d9c-b30b-465bedc42504)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_4.0_Modulo_6/assets/131497718/0e51a547-5bc3-4113-a1a1-fad38cdef8d1)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_4.0_Modulo_6/assets/131497718/24d206cd-e7e5-468f-8695-240414cc5b90)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_4.0_Modulo_6/assets/131497718/390b3b8c-908b-4137-8093-91617ff24212)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_4.0_Modulo_6/assets/131497718/4d4ea162-85d2-4d35-960f-3d640a24b365)
+
+
+
+
+
+
+
